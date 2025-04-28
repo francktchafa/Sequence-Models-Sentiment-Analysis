@@ -3,7 +3,7 @@ This repository contains two notebooks that explore sentiment analysis and emoti
 **Project_Sentiment_Analysis_v1.ipynb: Emojifier with Word Vectors**
 Leverages pre-trained word vector representations to create an Emojifier that maps sentences to their most relevant emoji. Examples include:
 * "Job well done!" → 👍
-* "Let's get coffee and talk." → ☕️
+* "Let's get dinner and talk" → 🍴
 * "I love you!" → ❤️
 
 **Project_Sentiment_Analysis_v2.ipynb: Enhanced Emojifier with LSTM**
